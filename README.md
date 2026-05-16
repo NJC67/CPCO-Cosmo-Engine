@@ -64,4 +64,4 @@ The terminal output maps out the multi-body kinematics in real-time, completing 
 The software components and matching publications are licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. To cite this open-science project in your research:
 
 ```text
-Colalancia, N. (2026). "The Universal Engine: A Non-Singular Quantum Phase-Change Cosmology (CPCO Model)." CERN Zenodo Indexation Repository. DOI: 10.5281/zenodo.[YOUR_DOI_NUMBER]
+Colalancia, N. (2026). "The Universal Engine: A Non-Singular Quantum Phase-Change Cosmology (CPCO Model)." CERN Zenodo Indexation Repository. DOI: 10.5281/zenodo.20185802
