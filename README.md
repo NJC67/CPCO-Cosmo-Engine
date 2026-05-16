@@ -29,8 +29,7 @@ The entire cosmic alternator loop is built from the atom up, driven by a foundat
 The master framework is packaged across clean modeling files optimized for independent peer verification and distributed high-performance computing (HPC) environments:
 
 * `main.cpp` - Core C++17 execution loop mapping out the `EinsteinMetricTensor` flatness updates, the `CosmologicalPhaseEngine` thermal sweeps, and the relativistic Lorentz velocity transformations.
-* `manuscript_body.md` - Complete academic core chapters detailing Sections 1 through 10 of the theory.
-* `appendices_A_to_M.md` - Explicit technical derivations including the 1 GeV strong force boundary calculus, vacuum elastodynamics bulk modulus profiles, and primordial nucleosynthesis 3:1 mass abundance timelines.
+* `Universal_Engine_Manuscript.pdf` - Complete academic core chapters detailing Sections 1 through 10 of the theory. Explicit technical derivations including the 1 GeV strong force boundary calculus, vacuum elastodynamics bulk modulus profiles, and primordial nucleosynthesis 3:1 mass abundance timelines.
 
 ---
 
