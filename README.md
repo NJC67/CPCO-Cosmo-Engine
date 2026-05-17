@@ -31,6 +31,10 @@ The master framework is packaged across clean modeling files optimized for indep
 * `main.cpp` - Core C++17 execution loop mapping out the `EinsteinMetricTensor` flatness updates, the `CosmologicalPhaseEngine` thermal sweeps, and the relativistic Lorentz velocity transformations.
 * `Universal_Engine_Manuscript.pdf` - Complete academic core chapters detailing Sections 1 through 10 of the theory. Explicit technical derivations including the 1 GeV strong force boundary calculus, vacuum elastodynamics bulk modulus profiles, and primordial nucleosynthesis 3:1 mass abundance timelines.
 * *   [📄 **Download Technical Addendum Compendium**](./CPCO_Engine_Technical_Addendum.pdf) - Explicit subatomic physics backgrounds, continuum mechanics comparisons, and C++ software object routine guides supporting Appendices E, G, K, and M.
+ 
+ *   [📄 **Download Starship Propulsion Blueprint (CAPC Model)**](./Coulomb_Starship_Propulsion_Core_v1.0.pdf) - Standalone, patent-grade engineering specification detailing the 1G Brachistochrone kinematics, Mars mission parameters, and the 5 Core Claims protected under our active IP Right provisional registration tracking index.
+*   [💻 **Interactive Mission Optimization Solver (`mission_solver.cpp`)**](./mission_solver.cpp) - Standalone C++17 execution terminal enabling operators to dynamically analyze vehicle dry weights, distance scales, and relativistic mass profiles for flight operations ledger tracking.
+*   [💻 **Interactive Cosmic Alternator Engine (`main.cpp`)**](./main.cpp) - Core C++ execution script running the 1,000,000 particle coordinates simulation layout for the baseline cosmology.  
 
 ---
 
