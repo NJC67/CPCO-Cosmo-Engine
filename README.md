@@ -30,6 +30,7 @@ The master framework is packaged across clean modeling files optimized for indep
 
 * `main.cpp` - Core C++17 execution loop mapping out the `EinsteinMetricTensor` flatness updates, the `CosmologicalPhaseEngine` thermal sweeps, and the relativistic Lorentz velocity transformations.
 * `Universal_Engine_Manuscript.pdf` - Complete academic core chapters detailing Sections 1 through 10 of the theory. Explicit technical derivations including the 1 GeV strong force boundary calculus, vacuum elastodynamics bulk modulus profiles, and primordial nucleosynthesis 3:1 mass abundance timelines.
+* *   [📄 **Download Technical Addendum Compendium**](./CPCO_Engine_Technical_Addendum.pdf) - Explicit subatomic physics backgrounds, continuum mechanics comparisons, and C++ software object routine guides supporting Appendices E, G, K, and M.
 
 ---
 
