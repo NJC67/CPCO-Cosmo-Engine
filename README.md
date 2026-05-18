@@ -29,12 +29,14 @@ This repository acts as the public open-science verification node for the Engeni
 * [📄 **Download Technical Addendum Compendium**](./CPCO_Engine_Technical_Addendum.pdf) - Explicit subatomic quantum-continuum backgrounds, accelerator applications, and data manual profiles supporting Appendices E, G, K, and M.
 * [📄 **Download Starship Propulsion Blueprint (CAPC Model)**](./Coulomb_Starship_Propulsion_Core_v1.0.pdf) - Standalone patent-grade engineering specification detailing the continuous 1G linear acceleration mechanics, trans-planetary Brachistochrone kinematics, and the 5 Core Claims.
 * [📄 **Download Terrestrial Power Alternator Specification (CDPA Model)**](./Coulomb_Dynamic_Power_Alternator_v1.0.pdf) - Detailed 10-chapter utility specification mapping out closed-loop magnetohydrodynamic (MHD) component details, infrastructure scaling coefficients, and Levelized Cost of Energy (LCOE) matrices.
+* [📄 **Download Non-Contact Core Pressure Mitigation Addendum**](./Engenis_Core_Pressure_Management_Addendum_v1.0.pdf) - Strategic addendum detailing the 4-layer technical defense matrix (titanium-carbon exocages and MHD inductive braking loads) engineered to isolate and contain localized $10^{31}\text{ Pa}$ expansion waves.
 
 
 ### 💻 High-Performance C++17 Computing Engines
 * [💻 **Interactive Cosmic Alternator Engine (`main.cpp`)**](./main.cpp) - Core C++ execution script running the 1,000,000-particle coordinates simulation layout to verify net system entropy purification ($S \equiv 0$).
 * [💻 **Interplanetary Trajectory Optimization Solver (`mission_solver.cpp`)**](./mission_solver.cpp) - Standalone flight operations ledger terminal executing Special Relativistic Hyperbolic Motion using Minkowski four-vectors to calculate continuous-thrust Mars return sprint tracking logs.
 * [💻 **Terrestrial Grid Alternator Sensitivity Engine (`power_solver.cpp`)**](./power_solver.cpp) - Interactive grid execution console modeling closed-loop MHD harvesting capacity, daily fuel logistics weights, and consumer homes-powered ratios.
+
 
 ---
 
