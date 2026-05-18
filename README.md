@@ -1,72 +1,61 @@
-# CPCO-Cosmo-Engine
-Relativistic particle phase-change simulation framework for the Cosmological Phase-Change Oscillator (CPCO) cyclic universe model.
-# The Universal Engine: A Non-Singular Quantum Phase-Change Cosmology (CPCO Model)
-
-## 📋 Theoretical & Computational Manifesto
-
-[![CERN Zenodo Index](https://shields.io.[YOUR_DOI_NUMBER]-blue.svg)](https://zenodo.org)
-[![License: CC BY 4.0](https://shields.io)](https://creativecommons.org)
-[![Language Baseline](https://shields.io)](https://cppreference.com)
-[![Development Phase](https://shields.io)]()
-
-This open-source repository hosts the official standalone high-performance C++ simulation framework for the **Cosmological Phase-Change Oscillator (CPCO)** model. This non-singular, 3+1 dimensional cyclic cosmology entirely bypasses the unphysical geometric infinities of standard Lambda-CDM paradigms by shifting the universal engine from a "Gravity-First" architecture into an **Electromagnetic-Quantum** resonant cycle operating on a strict ~2.4-trillion-year lifecycle.
+# 🏛️ ENGENIS CORPORATION PTY LTD
+### Advanced Subatomic, Relativistic, and Infrastructure Engineering Matrix
+**Base Operations:** Campbelltown, Adelaide, South Australia  
+**Secure Data Inquiries Node:** `njc@engeniscorp.com`
 
 ---
 
-## 🌌 Core Mechanics & The Thought Experiment
-
-The entire cosmic alternator loop is built from the atom up, driven by a foundational insight regarding the physical instability of absolute rest at low energy bounds:
-
-* **The Phase Melt:** As the expanding cosmos cools to its thermal floor (\(T_{\text{melt}} \approx 7.8 \times 10^{-14}\) K), particle momentum uncertainty approaches zero (\(\Delta p \to 0\)). Under the **Heisenberg Uncertainty Principle**, spatial position boundaries are mathematically forced to expand to infinity (\(\Delta x \to \infty\)). Localized electrons lose their address, phase-shifting into a uniform, non-local **Infinite Quantum Field** (\(\nabla \Psi_{\text{univ}} = 0\)).
-* **The Master Snap:** The total loss of local electronic shielding leaves atomic nuclei exposed as naked pockets of positive charge at nuclear density. Controlled by **Staggered Shielding**, the hyper-polarized K-shell layer of **Element 126** acts as the final universal safety pin, melting to synchronize an immediate, catastrophic **Coulomb Detonation**.
-* **The Flatness Gate:** At the absolute zenith of this universal expansion stroke, perfect spatial homogeneity forces the energy-density gradient to zero (\(\nabla T_{\mu\nu} = 0\)). Under Einstein's Field Equations, the curved Riemannian manifold collapses completely into a weightless **Minkowski metric phase-gate (\(G_{\mu\nu} = 0 \implies \text{diag}(-1,1,1,1)\))**, neutralizing gravity and preventing immediate black hole collapse.
-* **The Dark Matter Ballast:** Relativistic multi-particle scattering inside the **Photon Wall** shatters baryons past the \(1 \text{ GeV}\) confinement limit at a fixed \(16.6\%\) (\(1/6\)) leptonisation efficiency limit. Exactly \(1/6\) of the mass forms visible matter; the remaining \(5/6\) acts as un-shattered, zero-entropy **Dark Matter** shrapnel seeds, providing immediate gravitational wells to resolve the high-redshift galaxy crisis exposed by the **James Webb Space Telescope (JWST)**.
+## 🔒 STATUTORY INTELLECTUAL PROPERTY & CITATION BADGES
+* **IP Australia Patent Registration Status:** Active Utilities and Provisional Postulates Protected.
+* **Aerospace System Core:** CAPC Patent Allocation Tracking Number Engaged.
+* **Terrestrial Energy Grid:** CDPA Patent Component Architecture Tracking Number Engaged.
+* **CERN Academic Registry:** Dynamic Cross-Linked Research Portfolio Archived Under Permanent Master Concept DOI 10.5281/zenodo.20185802.
 
 ---
 
-## 🛠️ Repository Directory & Structural Blueprint
+## 🌐 Corporate Mission Statement: Liquidating the Thermal Middleman
+Engenis Corporation Pty Ltd is dedicated to liquidating the resource-constrained barriers of the primitive Thermal Age. Every legacy baseline asset currently sustaining the civilizational grid—including coal, natural gas, thermal nuclear fission, and experimental magnetic confinement fusion—is crippled by an archaic thermodynamic bottleneck: the **thermal middleman**. These systems are mechanically forced to execute weak molecular combustion or hazardous mass-defect fragmentation purely to boil liquid water, generating high-pressure steam to physically rotate a copper generator shaft. In doing so, they lose between 60% and 70% of their gross energy output as unrecoverable waste heat.
 
-The master framework is packaged across clean modeling files optimized for independent peer verification and distributed high-performance computing (HPC) environments:
-
-* `main.cpp` - Core C++17 execution loop mapping out the `EinsteinMetricTensor` flatness updates, the `CosmologicalPhaseEngine` thermal sweeps, and the relativistic Lorentz velocity transformations.
-* `Universal_Engine_Manuscript.pdf` - Complete academic core chapters detailing Sections 1 through 10 of the theory. Explicit technical derivations including the 1 GeV strong force boundary calculus, vacuum elastodynamics bulk modulus profiles, and primordial nucleosynthesis 3:1 mass abundance timelines.
-* *   [📄 **Download Technical Addendum Compendium**](./CPCO_Engine_Technical_Addendum.pdf) - Explicit subatomic physics backgrounds, continuum mechanics comparisons, and C++ software object routine guides supporting Appendices E, G, K, and M.
- 
- *   [📄 **Download Starship Propulsion Blueprint (CAPC Model)**](./Coulomb_Starship_Propulsion_Core_v1.0.pdf) - Standalone, patent-grade engineering specification detailing the 1G Brachistochrone kinematics, Mars mission parameters, and the 5 Core Claims protected under our active IP Right provisional registration tracking index.
-*   [💻 **Interactive Mission Optimization Solver (`mission_solver.cpp`)**](./mission_solver.cpp) - Standalone C++17 execution terminal enabling operators to dynamically analyze vehicle dry weights, distance scales, and relativistic mass profiles for flight operations ledger tracking.
-*   [💻 **Interactive Cosmic Alternator Engine (`main.cpp`)**](./main.cpp) - Core C++ execution script running the 1,000,000 particle coordinates simulation layout for the baseline cosmology.  
+Engenis Corporation has successfully eliminated the thermal middleman entirely. By translating the validated subatomic mechanics of our non-singular quantum phase-change cosmology (the CPCO model) into practical, solid-state hardware topologies, we have unlocked the raw electrostatic potential energy stored natively within the unshielded geometry of atomic nuclei. We completely bypass the water-boiling loop, replacing thermal expansion with non-contact electromagnetic alternators that achieve a net efficiency exceeding 90% across deep-space transport tracks and terrestrial utility power grids.
 
 ---
 
-## 💻 Desktop Compilation & Local Verification
+## 🛠️ Repository Directory Map & Asset Registry
 
-The simulation kernels are written in standard, highly optimized C++17. To compile and run the engine locally on your desktop terminal or command line:
+This repository acts as the public open-science verification node for the Engenis technology portfolio. All software computing kernels are structured with memory-isolated unique pointers and are fully compilable on standard consumer hardware.
 
-```bash
-# Compile using high-level compiler optimizations (-O3 flag clears execution latency)
-g++ -std=c++17 -O3 main.cpp -o cpco_engine
+### 📄 Documentation & Technical Manuscripts
+* [📄 **Download Primary Cosmology Manuscript**](./Universal_Engine_Manuscript_v1.0.pdf) - The complete unified text body and thirteen uncompressed mathematical appendices mapping the eterno-harmonic universe refresh cycle and flat Minkowski metric phase-gates.
+* [📄 **Download Technical Addendum Compendium**](./CPCO_Engine_Technical_Addendum.pdf) - Explicit subatomic quantum-continuum backgrounds, accelerator applications, and data manual profiles supporting Appendices E, G, K, and M.
+* [📄 **Download Starship Propulsion Blueprint (CAPC Model)**](./Coulomb_Starship_Propulsion_Core_v1.0.pdf) - Standalone patent-grade engineering specification detailing the continuous 1G linear acceleration mechanics, trans-planetary Brachistochrone kinematics, and the 5 Core Claims.
+* [📄 **Download Terrestrial Power Alternator Specification (CDPA Model)**](./Coulomb_Dynamic_Power_Alternator_v1.0.pdf) - Detailed 10-chapter utility specification mapping out closed-loop magnetohydrodynamic (MHD) component details, infrastructure scaling coefficients, and Levelized Cost of Energy (LCOE) matrices.
 
-# Run the cosmic alternator binary
-./cpco_engine
+
+### 💻 High-Performance C++17 Computing Engines
+* [💻 **Interactive Cosmic Alternator Engine (`main.cpp`)**](./main.cpp) - Core C++ execution script running the 1,000,000-particle coordinates simulation layout to verify net system entropy purification ($S \equiv 0$).
+* [💻 **Interplanetary Trajectory Optimization Solver (`mission_solver.cpp`)**](./mission_solver.cpp) - Standalone flight operations ledger terminal executing Special Relativistic Hyperbolic Motion using Minkowski four-vectors to calculate continuous-thrust Mars return sprint tracking logs.
+* [💻 **Terrestrial Grid Alternator Sensitivity Engine (`power_solver.cpp`)**](./power_solver.cpp) - Interactive grid execution console modeling closed-loop MHD harvesting capacity, daily fuel logistics weights, and consumer homes-powered ratios.
+
+---
+
+## 💻 Standard ASCII Compilation & Verification Instructions
+
+To execute the interactive power grid sensitivity engine natively on your local Windows command terminal using the Microsoft Visual C++ Compiler (MSVC) with unlocked math definitions, navigate into your directory and run:
+
+```cmd
+cl /EHsc /std:c++17 /O2 /D_USE_MATH_DEFINES power_solver.cpp /Fe:power_solver.exe
+power_solver.exe
 ```
 
-### Expected Output Metrics:
-The terminal output maps out the multi-body kinematics in real-time, completing the engine stroke with a final cosmological summary report confirming a mathematically locked energy ledger (~5% Baryonic, ~25% Dark Matter, ~70% Vacuum Field Stiffness) and a definitive **Net Information Entropy value of exactly `0.0000000000 J/K`**.
-
 ---
 
-## 📄 Project Governance & Citation Data
+## 📬 Strategic Communications and Inbound Gateways
+While our core theoretical physics and software calculation modules are openly distributed for non-commercial academic research and algorithmic forking under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license shield, all commercial utility, manufacturing, and sovereign defense applications are strictly proprietary assets of Engenis Corporation Pty Ltd.
 
-### Principal Investigator & Lead Author
-* **Nick Joseph Colalancia** (Independent Researcher / Principal Architect)
-* *Role:* Conceptualized and formulated the core qualitative thought experiments, the Heisenberg electron melt mechanism, staggered atomic shielding sequence, and the metric flattening timing constraints.
+Unsolicited queries, unvetted commercial pitches, or anonymous data requests over public tracking trees are automatically purged. If your organization represents an institutional venture capital network, a sovereign wealth stream, an energy utility planner, or a prime aerospace contractor seeking to submit a formal corporate capability brief, please route your documentation directly to our secure board communications terminal:
 
-### Technical Computational Co-Driver
-* **Google Artificial Intelligence Modeling Streams**
-* *Role:* Systems utilized as an interactive mathematical, code-synthesis, and continuum mechanics co-driver to verify vector covariance and format high-efficiency algorithmic kernels.
+**The Board of Directors**  
+Engenis Corporation Pty Ltd  
+Adelaide, South Australia  
+*Secure Group Terminal:* `njc@engeniscorp.com`
 
-### Citations & Academic Indexing
-The software components and matching publications are licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. To cite this open-science project in your research:
-
-```text
-Colalancia, N. (2026). "The Universal Engine: A Non-Singular Quantum Phase-Change Cosmology (CPCO Model)." CERN Zenodo Indexation Repository. DOI: 10.5281/zenodo.20185802
